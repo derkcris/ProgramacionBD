@@ -1,0 +1,16 @@
+.settings
+.metadata
+.buildpath
+.project
+*/tmp
+*/tmp/*
+*/tmp/*/
+nbproject
+/core/Cake/Console/Templates/skel/tmp/
+.LCKindex.php~
+cloud-emu
+cloud-emu/*
+.DS_Store
+*.ctp~
+*.php~
+.gitignore~
